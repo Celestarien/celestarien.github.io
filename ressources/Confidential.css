@@ -224,3 +224,12 @@
 .size16-1P40sf.overlayTitle-8IcS01.da-overlayTitle:hover {
     filter: none;
 }
+
+.text-1y-e8-.da-text {
+    filter: blur(4px);
+    transition: 10ms;
+}
+
+.text-1y-e8-.da-text:hover {
+    filter: none
+}
