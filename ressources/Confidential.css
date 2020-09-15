@@ -233,3 +233,12 @@
 .text-1y-e8-.da-text:hover {
     filter: none
 }
+
+.textArea-12jD-V.da-textArea.textAreaSlate-1ZzRVj.da-textAreaSlate.slateContainer-3Qkn2x.da-slateContainer {
+    filter: blur(4px);
+    transition: 10ms;
+}
+
+.textArea-12jD-V.da-textArea.textAreaSlate-1ZzRVj.da-textAreaSlate.slateContainer-3Qkn2x.da-slateContainer:hover {
+    filter: none;
+}
