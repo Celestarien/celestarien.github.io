@@ -242,3 +242,12 @@
 .textArea-12jD-V.da-textArea.textAreaSlate-1ZzRVj.da-textAreaSlate.slateContainer-3Qkn2x.da-slateContainer:hover {
     filter: none;
 }
+
+.anchor-3Z-8Bb.da-anchor.anchorUnderlineOnHover-2ESHQB.da-anchorUnderlineOnHover.imageWrapper-2p5ogY.da-imageWrapper.imageZoom-1n-ADA.da-imageZoom.clickable-3Ya1ho.da-clickable.embedWrapper-lXpS3L.da-embedWrapper {
+    filter: blur(50px);
+    transition: 10ms;
+}
+
+.anchor-3Z-8Bb.da-anchor.anchorUnderlineOnHover-2ESHQB.da-anchorUnderlineOnHover.imageWrapper-2p5ogY.da-imageWrapper.imageZoom-1n-ADA.da-imageZoom.clickable-3Ya1ho.da-clickable.embedWrapper-lXpS3L.da-embedWrapper:hover {
+    filter: none;
+}
